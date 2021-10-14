@@ -1,0 +1,302 @@
+/*
+Fixing the CSS - Work in progress*/
+
+/* FONTS */
+@font-face {
+  font-family: "Liberation Mono";
+  src: url("fonts/LiberationMono-Regular.ttf");
+}
+
+/* BASE AND GENERAL STUFF */
+html {
+  background-image: url("tile.png");
+  background-size: 30px;
+  background-attachment: fixed;
+  font-family: "Liberation Mono";
+  font-size: 13px;
+  opacity: 100%;
+  scrollbar-width: none;
+}
+
+* {
+	-ms-overflow-style: none;
+	overflow: -moz-scrollbars-none;
+}
+
+body {
+	-ms-overflow-style: auto;
+	overflow: auto;
+}
+
+body {
+  background: black;
+  border: 1px;
+  color: white;
+  /*width: 42.5%;*/
+  width: 635px;
+  margin: auto;
+  opacity: 0.9;
+  margin-top: 2em;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+:root {
+  --accent: #00EE11;
+}
+
+.white-border {
+  border-style: solid;
+  border-color: white;
+  border-width: 1.5px;
+}
+
+.green-border {
+  border-style: solid;
+  border-color: green;
+  border width: 2px;
+}
+
+.accent-border {
+  border-style: solid;
+  border-color: var(--accent);
+  border-width: 1.5px;
+}
+
+.mfw {
+  color: #B8D962;
+}
+
+.textbox {
+  color: white;
+  background-color: black;
+}
+
+.highlight {
+  background-color: white;
+  color:black;
+  padding: 0.0em 0.1em;
+}
+
+.highlight:hover{
+  background-color: var(--accent);
+}
+
+.top {
+  text-align: right;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+a:hover{
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+}
+
+header {
+ text-align: center;
+}
+
+header p {
+  width: 90%;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* NAVBAR */
+.links {
+  text-align: center;
+  background-color: black;
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  float: center;
+  padding: 0px;
+  cursor: pointer;
+  word-wrap: break-word;
+}
+
+.links * {
+  text-decoration: none;
+  padding: 0.1em;
+  margin: 0;
+  font-size: 20px;
+  color: white;
+}
+
+.current-page {
+  text-decoration: underline;
+}
+
+/* MAIN */
+.main {
+  padding: 0.0em 0.5em;
+  margin:auto;
+  text-align: left;
+}
+
+/* FOOTER */
+footer {
+  padding: 0.2em 0.5em;
+  border-top-style: solid;
+  border-top-color: white;
+  border-top-width: 1.5px;
+}
+
+/* HOME */
+.greetings {
+  text-align: center;
+}
+
+.greetings img {
+  width: 33%;
+}
+
+.donation {
+  word-wrap: break-word;
+}
+
+/* SITES*/
+.webring, .frens, .my-banner, .my-button{
+  text-align: center;
+}
+
+.button {
+  width: 88px;
+  height: 31px;
+}
+
+.banner {
+  width: 240px;
+  height: 60px;
+}
+
+/* POSTS */
+.posts{
+  width: 90%;
+  margin: 0em auto;
+}
+
+.post {
+  margin: 1.5em 0;
+}
+
+.post-top {
+  width: 100%;
+}
+
+.post-top h4{
+  padding: 0.25em;
+  margin: 0px;
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+.post-content {
+  border-top-style: solid;
+  border-top-color: white;
+  border-top-width: 1.5px;
+  text-align: center;
+}
+
+.post-content p, h4{
+    padding: 1em;
+    margin: 0;
+}
+
+.post-content p, li{
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.op-img {
+  width: 35%;
+  padding: 0;
+  margin: 1em;
+  float:left;
+}
+
+.content-img{
+  width: 95%;
+  margin: auto;
+}
+
+.quote {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  background-color: black;
+  font-style: italic;
+}
+
+.quote .author {
+  text-align: right;
+}
+
+/* MISC STUFF */
+.secret_gif {
+  position: absolute;
+  width: 30px;
+  bottom: 0;
+  left: 0;
+}
+
+.lain {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* RESPONSIVENESS */
+
+@media screen and (max-width: 700px)
+{
+  body {
+    width: 90%;
+  }
+  .links {
+    width: 90%;
+  }
+}
+
+/*
+@media screen and (max-aspect-ratio: 4/3) {
+body {
+    width: 66%;
+  }
+}
+*/
+
+@media screen and (max-aspect-ratio: 9/15) {
+html {
+    font-size: 21px;
+  }
+body {
+    width: 87%;
+  }
+.links a {
+    font-size: 40px;
+  }
+ header p {
+   font-size: 28px;
+  }
+.links {
+    width: 80%;
+  }
+.greetings img {
+    width: 60%;
+  }
+}
