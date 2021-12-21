@@ -1,0 +1,237 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Jole's site</title>
+<subtitle type="text">page with computer-related things</subtitle>
+<updated>2020-11-12T00:00:00Z</updated>
+<link rel="alternate" type="text/html" href="https://jole.xyz"/>
+<id>https://jole.xyz/atom.xml</id>
+<link rel="self" type="application/atom+xml" href="https://jole.xyz/atom.xml"/>
+<entry>
+<title type="text">wat do?</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/wat-do.html"/>
+<id>https://jole.xyz/wat-do.html</id>
+<updated>2021-11-26T00:00:00Z</updated>
+<published>2021-11-26T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">what am i to do</summary>
+</entry>
+<entry>
+<title type="text">Hull</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/hull.html"/>
+<id>https://jole.xyz/hull.html</id>
+<updated>2021-11-01T00:00:00Z</updated>
+<published>2021-11-01T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">hull</summary>
+</entry>
+<entry>
+<title type="text">NFT</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/nft.html"/>
+<id>https://jole.xyz/nft.html</id>
+<updated>2021-10-31T00:00:00Z</updated>
+<published>2021-10-31T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">shut up about jpgs</summary>
+</entry>
+<entry>
+<title type="text">Word Associatoin</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/word-association.html"/>
+<id>https://jole.xyz/word-association.html</id>
+<updated>2021-10-17T00:00:00Z</updated>
+<published>2021-10-17T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">wordssss</summary>
+</entry>
+<entry>
+<title type="text">Vipps, så var det gjort!</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/vipps.html"/>
+<id>https://jole.xyz/vipps.html</id>
+<updated>2021-10-18T00:00:00Z</updated>
+<published>2021-10-18T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">så enkelt er det</summary>
+</entry>
+<entry>
+<title type="text">Word Association</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/word-association.html"/>
+<id>https://jole.xyz/word-association.html</id>
+<updated>2021-10-17T00:00:00Z</updated>
+<published>2021-10-17T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">wordssss</summary>
+</entry>
+<entry>
+<title type="text">HTML rocks</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/html-rocks.html"/>
+<id>https://jole.xyz/html-rocks.html</id>
+<updated>2021-10-15T00:00:00Z</updated>
+<published>2021-10-15T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">gemtex suxx</summary>
+</entry>
+<entry>
+<title type="text">Just wing it</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/just-wing-it.html"/>
+<id>https://jole.xyz/just-wing-it.html</id>
+<updated>2021-10-12T00:00:00Z</updated>
+<published>2021-10-12T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">Just wing it!!1</summary>
+</entry>
+<entry>
+<title type="text">The case for IPFS torrents</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/ipfs-torrents.html"/>
+<id>https://jole.xyz/ipfs-torrents.html</id>
+<updated>2021-10-11T00:00:00Z</updated>
+<published>2021-10-11T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">The case for IPFS torrents</summary>
+</entry>
+<entry>
+<title type="text">I hate the Audio</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/pulsemyass.html"/>
+<id>https://jole.xyz/pulsemyass.html</id>
+<updated>2021-10-11T00:00:00Z</updated>
+<published>2021-10-10T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">i can't get mpd or other music daemons to work</summary>
+</entry>
+<entry>
+<title type="text">Appliances</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/white-wares.html"/>
+<id>https://jole.xyz/white-wares.html</id>
+<updated>2021-10-04T00:00:00Z</updated>
+<published>2021-10-04T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">appliances</summary>
+</entry>
+<entry>
+<title type="text">I lost the game</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/the-game.html"/>
+<id>https://jole.xyz/the-game.html</id>
+<updated>2021-10-01T00:00:00Z</updated>
+<published>2021-10-01T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">I lost the game</summary>
+</entry>
+<entry>
+<title type="text">Happy thursday!</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/feliz-jueves.html"/>
+<id>https://jole.xyz/feliz-jueves.html</id>
+<updated>2021-09-30T00:00:00Z</updated>
+<published>2021-09-30T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">¡¡¡¡Feliz Jueves!!!1</summary>
+</entry>
+<entry>
+<title type="text">?</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/que.html"/>
+<id>https://jole.xyz/que.html</id>
+<updated>2021-09-30T00:00:00Z</updated>
+<published>2021-09-30T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">?</summary>
+</entry>
+<entry>
+<title type="text">Education</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/education.html"/>
+<id>https://jole.xyz/education.html</id>
+<updated>2021-10-01T00:00:00Z</updated>
+<published>2021-09-29T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">thoughts on getting educated</summary>
+</entry>
+<entry>
+<title type="text">Units</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/units.html"/>
+<id>https://jole.xyz/units.html</id>
+<updated>2021-09-28T00:00:00Z</updated>
+<published>2021-09-28T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">rambling on units</summary>
+</entry>
+<entry>
+<title type="text">Webrings (interesting sites!)</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/webrings.html"/>
+<id>https://jole.xyz/webrings.html</id>
+<updated>2021-10-07T00:00:00Z</updated>
+<published>2021-09-26T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">Lainchan webring & friends</summary>
+</entry>
+<entry>
+<title type="text">About me</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/about-me.html"/>
+<id>https://jole.xyz/about-me.html</id>
+<updated>2021-09-26T00:00:00Z</updated>
+<published>2021-09-25T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">about me!</summary>
+</entry>
+<entry>
+<title type="text">Hole Notation</title>
+<link rel="alternate" type="text/html" href="https://jole.xyz/hole-notation.html"/>
+<id>https://jole.xyz/hole-notation.html</id>
+<updated>2020-12-08T00:00:00Z</updated>
+<published>2020-11-15T00:00:00Z</published>
+<author>
+<name>jole</name>
+<uri>https://jole.xyz</uri>
+</author>
+<summary type="text">A new mathematical notation</summary>
+</entry>
+</feed>
