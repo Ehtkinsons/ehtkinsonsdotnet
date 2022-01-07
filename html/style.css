@@ -37,7 +37,7 @@ tt a {
 @media (prefers-color-scheme: dark) {
 	body {
     background: #151515 ;
-    color: #ccc ;
+    color: white ;
     max-width: 1000px ;
     margin: auto ;
     padding: 0 16px ;
@@ -45,11 +45,11 @@ tt a {
 }
 
 a {
-    color: lightblue ;
+    color: #39ff14 ;
 }
 
 a:visited {
-    color: gray ;
+    color: green ;
 }
 
 }
