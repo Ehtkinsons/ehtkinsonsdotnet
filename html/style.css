@@ -18,6 +18,16 @@ h1 {
         max-width: none;
     }
 }
+
+h2 {
+    
+}
+
+h3 {
+
+
+}
+
 table tr td {
     line-height: 1.5em;
 }
@@ -51,5 +61,7 @@ a {
 a:visited {
     color: green ;
 }
+
+/* Create conditional formatting rules for the main page's social media links*/
 
 }
